@@ -1,7 +1,7 @@
 # piCheckTemperature
 Simple bash script to check the core cpu temperature on your raspberryPi. Especially useful when running tinyCore Linux respectiveley piCorePlayer.
 
-The temperature output is degree celsius
+The temperature output is degree celsius.
 
 Just get the script downloaded. If you have wget do a :
 ```bash
