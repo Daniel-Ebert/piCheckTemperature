@@ -9,7 +9,7 @@ wget https://raw.githubusercontent.com/TheAppService/piCheckTemperature/master/c
 ```
 Then make it executeable with
 ```bash
-chmod+x checkTemp.sh
+chmod +x checkTemp.sh
 ```
 and run it with 
 ```bash
