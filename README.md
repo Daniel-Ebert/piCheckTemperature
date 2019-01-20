@@ -10,5 +10,5 @@ chmod+x checkTemp.sh
 ```
 and run it with 
 ```bash
-chmod+x ./checkTemp.sh
+./checkTemp.sh
 ```
