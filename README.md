@@ -7,7 +7,7 @@ The temperature output is degree celsius.
 
 Just get the script downloaded. If you have wget do a :
 ```bash
-wget https://raw.githubusercontent.com/TheAppService/piCheckTemperature/master/checkTemp.sh
+wget https://raw.githubusercontent.com/Daniel-Ebert/piCheckTemperature/refs/heads/master/checkTemp.sh
 ```
 Then make it executeable with
 ```bash
